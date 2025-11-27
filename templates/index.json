@@ -37,6 +37,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-11-21_a_19.20.13_c8158c40.jpg",
             "mobile_image": "shopify://shop_images/76c11ea88487a8d3f1d87f6e8ca17ee7.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
