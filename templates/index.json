@@ -77,7 +77,10 @@
       "type": "featured-collection",
       "settings": {
         "collection": "lunettes",
-        "products": [],
+        "products": [
+          "noir-eclipse-1",
+          "lunette-chrome-heart"
+        ],
         "full_width": false,
         "stack_products": true,
         "show_progress_bar": false,
