@@ -101,6 +101,38 @@
         "product_card_text_color": ""
       }
     },
+    "video_emtVYA": {
+      "type": "video",
+      "blocks": {
+        "play_74qACw": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_yV6cR8": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_74qACw",
+        "heading_yV6cR8"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "md",
+        "video": "shopify://files/videos/IMG_9252.MP4",
+        "external_video_url": "",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -870,6 +902,7 @@
   "order": [
     "slideshow",
     "featured-collection",
+    "video_emtVYA",
     "collection-list",
     "image-link-blocks",
     "scrolling-text",
