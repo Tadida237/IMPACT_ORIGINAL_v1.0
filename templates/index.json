@@ -110,6 +110,7 @@
         },
         "heading_yV6cR8": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Video",
             "heading_tag": "h1"
