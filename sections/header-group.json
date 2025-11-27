@@ -46,7 +46,7 @@
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
-        "menu_open_trigger": "click",
+        "menu_open_trigger": "hover",
         "opening_from": "bottom",
         "layout": "logo_left_navigation_center",
         "show_social_media": true,
@@ -55,6 +55,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/17d4593c-4f50-4969-bd66-7ca38dc83dd1-removebg-preview.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
