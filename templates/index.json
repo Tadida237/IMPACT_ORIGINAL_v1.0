@@ -899,7 +899,7 @@
           "type": "item",
           "settings": {
             "title": "Comment se passe la livraison ?",
-            "content": "<p>Nous livrons dans <strong>toutes les villes du Cameroun</strong> : Douala, Yaoundé, Bafoussam, Limbé, Garoua, etc.</p><ul><li><br/><strong>Douala / Yaoundé :</strong> livraison rapide, souvent le même jour selon l’heure de commande.<br/></li><li><br/><strong>Autres régions :</strong> 24h–48h selon la distance.<br/><br/><br/></li></ul>"
+            "content": "<p>Nous livrons dans <strong>toutes les villes du Cameroun</strong> : Yaoundé, Douala, Bafoussam, Buea, etc.</p><ul><li><strong>Yaoundé / Douala:</strong> livraison rapide, souvent le même jour selon l’heure de commande.<br/></li><li><strong>Autres régions :</strong> 24h–48h selon la distance.<br/><br/><br/></li></ul>"
           }
         },
         "item_hWctGL": {
