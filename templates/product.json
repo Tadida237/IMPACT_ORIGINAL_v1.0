@@ -142,19 +142,19 @@
         "richtext_paTzTU": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><strong>MATÉRIAUX DURABLES<br/></strong>Fabriqués à partir de matériaux haute performance conçus pour résister à la vie quotidienne.<br/><br/></p>"
           }
         },
         "subheading_UWLJKF": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "03"
           }
         },
         "richtext_pLeWzq": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><strong>ÉTUIT PREMIUM & TISSU MICROFIBRE<br/></strong>Profitez d'un étui élégant et résistant conçu pour protéger vos lunettes au quotidien. Il garde vos montures en sécurité lors de vos déplacements. Inclus également, un tissu en microfibre pensé pour éliminer poussières et traces sans abîmer les verres. </p>"
           }
         }
       },
