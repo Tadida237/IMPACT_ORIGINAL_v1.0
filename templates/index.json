@@ -884,8 +884,8 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Est-ce que vos lunettes sont adaptées à la vue ?",
+            "content": "<p>Nos lunettes sont <strong>des cadres non médicaux</strong>, principalement pour le style, la protection et le confort visuel.<br/><br/>Cependant, <strong>oui</strong>, vous pouvez parfaitement les utiliser pour faire monter <strong>vos verres médicaux</strong> chez un opticien.<br/><br/>Les cadres sont solides, compatibles avec la plupart des verres (vue, anti-lumière bleue, transition…).<br/><br/>Il suffit d’emmener le cadre chez votre opticien et il vous installera les verres adaptés à votre prescription.</p>"
           }
         },
         "166442457738b23caf-1": {
