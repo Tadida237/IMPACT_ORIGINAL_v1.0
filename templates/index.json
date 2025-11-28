@@ -233,9 +233,10 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/9b65d06b3b9a51198e61c6a9c4762067_1080x1920_2c8b3267-5d38-45e7-81fa-345e038eab90.jpg",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify://collections/all",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
