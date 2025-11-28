@@ -881,6 +881,13 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_hWctGL": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je retourner un article si ça ne me plaît pas ?",
+            "content": "<p>Oui. Les retours sont possibles sous <strong>48 heures</strong> après réception si :</p><ul><li>la monture n’a pas été utilisée,</li><li>elle est intacte et dans son emballage d’origine.</li></ul><p>Nous vous aidons à organiser le retour ou l’échange si nécessaire.</p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
@@ -904,6 +911,7 @@
         }
       },
       "block_order": [
+        "item_hWctGL",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2"
