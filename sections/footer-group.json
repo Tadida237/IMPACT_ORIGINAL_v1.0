@@ -93,8 +93,8 @@
           "type": "newsletter",
           "settings": {
             "image_width": 150,
-            "heading_size": "h3",
-            "title": "Recevez nos nouveautés et offres exclusives",
+            "heading_size": "h5",
+            "title": "Inscrivez-vous pour recevoir nos nouveautés et offres exclusives",
             "content": ""
           }
         },
