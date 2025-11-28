@@ -885,7 +885,7 @@
           "type": "item",
           "settings": {
             "title": "Est-ce que vos lunettes sont adaptées à la vue ?",
-            "content": "<p><br/>Nos lunettes sont <strong>des cadres non médicaux</strong>, pensés pour le style et le confort.<br/><br/>Cependant, ils sont compatibles avec des verres correcteurs.<br/></p><p>Vous pouvez donc <strong>les apporter à votre opticien</strong> pour y installer vos verres médicaux si vous en portez.<br/></p>"
+            "content": "<p>Nos lunettes sont <strong>des cadres non médicaux</strong>, pensés pour le style et le confort.<br/></p><p>Cependant, ils sont compatibles avec des verres correcteurs.</p><p>Vous pouvez donc <strong>les apporter à votre opticien</strong> pour y installer vos verres médicaux si vous en portez.<br/></p>"
           }
         },
         "166442457738b23caf-1": {
