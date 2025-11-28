@@ -259,9 +259,10 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/mishwrld_1080x1920_19b0ee67-3331-4c60-b282-ec24d311b015.jpg",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify://products/lunette-chrome-heart",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
