@@ -899,7 +899,7 @@
           "type": "item",
           "settings": {
             "title": "Quels moyens de paiement acceptez-vous ?",
-            "content": "<p><br/>Paiement<strong> à la livraison</strong> (selon disponibilité du livreur dans votre zone</p><p><strong>Mobile Money</strong> (MTN MoMo & Orange Money)</p>"
+            "content": "<p><br/>Paiement<strong> à la livraison</strong> (selon disponibilité du livreur dans votre zone)</p><p><strong>Mobile Money</strong> (MTN MoMo & Orange Money)</p>"
           }
         },
         "166442457738b23caf-2": {
