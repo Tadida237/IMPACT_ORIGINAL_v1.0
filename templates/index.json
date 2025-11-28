@@ -881,18 +881,11 @@
     "faq": {
       "type": "faq",
       "blocks": {
-        "item_hWctGL": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je retourner un article si ça ne me plaît pas ?",
-            "content": "<p>Oui. Les retours sont possibles sous <strong>48 heures</strong> après réception si :</p><ul><li>la monture n’a pas été utilisée,</li><li>elle est intacte et dans son emballage d’origine.</li></ul><p>Nous vous aidons à organiser le retour ou l’échange si nécessaire.</p>"
-          }
-        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
             "title": "Est-ce que vos lunettes sont adaptées à la vue ?",
-            "content": "<p><br/>Nos lunettes sont d’abord <strong>des cadres non médicaux</strong>, pensés pour le style et le confort.<br/><br/>Cependant, certains modèles sont compatibles avec des verres correcteurs.<br/><br/>👉 Vous pouvez donc <strong>les apporter à votre opticien</strong> pour y installer vos verres médicaux si vous en portez.<br/></p>"
+            "content": "<p><br/>Nos lunettes sont <strong>des cadres non médicaux</strong>, pensés pour le style et le confort.<br/><br/>Cependant, ils sont compatibles avec des verres correcteurs.<br/></p><p>Vous pouvez donc <strong>les apporter à votre opticien</strong> pour y installer vos verres médicaux si vous en portez.<br/></p>"
           }
         },
         "166442457738b23caf-1": {
@@ -908,13 +901,20 @@
             "title": "Comment se passe la livraison ?",
             "content": "<p>Nous livrons dans <strong>toutes les villes du Cameroun</strong> : Douala, Yaoundé, Bafoussam, Limbé, Garoua, etc.</p><ul><li><br/><strong>Douala / Yaoundé :</strong> livraison rapide, souvent le même jour selon l’heure de commande.<br/></li><li><br/><strong>Autres régions :</strong> 24h–48h selon la distance.<br/><br/><br/></li></ul>"
           }
+        },
+        "item_hWctGL": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je retourner un article si ça ne me plaît pas ?",
+            "content": "<p>Oui. Les retours sont possibles sous <strong>48 heures</strong> après réception si :</p><ul><li>la monture n’a pas été utilisée,</li><li>elle est intacte et dans son emballage d’origine.</li></ul><p>Nous vous aidons à organiser le retour ou l’échange si nécessaire.</p>"
+          }
         }
       },
       "block_order": [
-        "item_hWctGL",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_hWctGL"
       ],
       "settings": {
         "full_width": false,
