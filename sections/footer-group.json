@@ -100,6 +100,7 @@
         },
         "links": {
           "type": "links",
+          "disabled": true,
           "settings": {
             "menu": "footer",
             "show_menu_title": true
@@ -107,6 +108,7 @@
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "À propos de nous",
             "content": "<p>Notre mission est simple : rendre le style accessible à tous. Nous sélectionnons des produits modernes, durables et adaptées au quotidien, tout en garantissant une expérience d’achat fluide et un service client disponible à tout moment.<br/></p>",
