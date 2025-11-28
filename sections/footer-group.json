@@ -108,8 +108,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "À propos de nous",
+            "content": "<p>Notre mission est simple : rendre le style accessible à tous. Nous sélectionnons des produits modernes, durables et adaptées au quotidien, tout en garantissant une expérience d’achat fluide et un service client disponible à tout moment.<br/></p>",
             "enable_follow_on_shop": true
           }
         }
