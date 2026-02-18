@@ -176,10 +176,44 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "video_bDzDeU": {
+      "type": "video",
+      "blocks": {
+        "heading_Pph4Va": {
+          "type": "heading",
+          "settings": {
+            "text": "Avant / Après : le résultat",
+            "heading_tag": "h4"
+          }
+        },
+        "play_hn4HKL": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_Pph4Va",
+        "play_hn4HKL"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/VID-20260218-WA0001.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "poster": "shopify://shop_images/Captured_ecran2025-12-17183153_8223a6fe-b837-446e-a30d-daf32a940809.png",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "main",
-    "rich_text_8igGCn"
+    "rich_text_8igGCn",
+    "video_bDzDeU"
   ]
 }
