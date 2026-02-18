@@ -95,7 +95,7 @@
         "full_width": true,
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "floating_dots",
         "enable_video_autoplay": false,
@@ -115,7 +115,7 @@
         "heading_6Rqfwj": {
           "type": "heading",
           "settings": {
-            "text": "Lunette chrome heart by Hype Nation",
+            "text": "Brosse lissante portable by Hype Nation",
             "heading_tag": "h5",
             "text_color": "",
             "gradient": ""
@@ -130,7 +130,7 @@
         "richtext_cMneFK": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>CONFORT ET LÉGÈRETÉ<br/></strong>Profitez d'un confort optimal grâce à des montures conçues pour être portées toute la journée.<br/><br/></p>"
+            "content": "<p><strong>LISSAGE RAPIDE<br/></strong>Révélez une chevelure lisse, élégante et maîtrisée  en quelque gestes seulement. Pensée pour les femmes modernes, cette brosse vous offre une coiffure impeccable à tout moment de la journée. <br/><br/></p>"
           }
         },
         "subheading_7NXbGj": {
@@ -142,7 +142,7 @@
         "richtext_paTzTU": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>MATÉRIAUX DURABLES<br/></strong>Fabriqués à partir de matériaux haute performance conçus pour résister à la vie quotidienne.<br/><br/></p>"
+            "content": "<p><strong>PROTECTION & BRILLANCE<br/></strong>Sa technologie de chauffe intelligente respecte la fibre capillaire tout en éliminant les frisottis. Vos cheveux restent doux, brillant et plein de vie, sans compromis entre beauté et protection.<br/><br/></p>"
           }
         },
         "subheading_UWLJKF": {
@@ -154,7 +154,7 @@
         "richtext_pLeWzq": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>ÉTUIT PREMIUM & TISSU MICROFIBRE<br/></strong>Profitez d'un étui élégant et résistant conçu pour protéger vos lunettes au quotidien. Il garde vos montures en sécurité lors de vos déplacements. Inclus également, un tissu en microfibre pensé pour éliminer poussières et traces sans abîmer les verres. </p>"
+            "content": "<p><strong>FORMAT NOMADE<br/></strong>Compacte, légère et rechargeable, elle vous accompagne partout: voyage, rendez-vous ou sorties imprévues. Parce que vous méritez de vous sentir prête et sublime, où que vous soyez.</p>"
           }
         }
       },
