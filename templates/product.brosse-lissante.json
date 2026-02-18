@@ -1,0 +1,185 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "separator",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "rich_text_8igGCn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6Rqfwj": {
+          "type": "heading",
+          "settings": {
+            "text": "Lunette chrome heart by Hype Nation",
+            "heading_tag": "h5",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "subheading_xUKJKm": {
+          "type": "subheading",
+          "settings": {
+            "text": "01"
+          }
+        },
+        "richtext_cMneFK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>CONFORT ET LÉGÈRETÉ<br/></strong>Profitez d'un confort optimal grâce à des montures conçues pour être portées toute la journée.<br/><br/></p>"
+          }
+        },
+        "subheading_7NXbGj": {
+          "type": "subheading",
+          "settings": {
+            "text": "02"
+          }
+        },
+        "richtext_paTzTU": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>MATÉRIAUX DURABLES<br/></strong>Fabriqués à partir de matériaux haute performance conçus pour résister à la vie quotidienne.<br/><br/></p>"
+          }
+        },
+        "subheading_UWLJKF": {
+          "type": "subheading",
+          "settings": {
+            "text": "03"
+          }
+        },
+        "richtext_pLeWzq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>ÉTUIT PREMIUM & TISSU MICROFIBRE<br/></strong>Profitez d'un étui élégant et résistant conçu pour protéger vos lunettes au quotidien. Il garde vos montures en sécurité lors de vos déplacements. Inclus également, un tissu en microfibre pensé pour éliminer poussières et traces sans abîmer les verres. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6Rqfwj",
+        "subheading_xUKJKm",
+        "richtext_cMneFK",
+        "subheading_7NXbGj",
+        "richtext_paTzTU",
+        "subheading_UWLJKF",
+        "richtext_pLeWzq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_8igGCn"
+  ]
+}
