@@ -36,7 +36,7 @@
     "show_page_transition": true,
     "heading_apparition": "split_fade",
     "color_swatch_style": "round",
-    "color_swatch_config": "Argent:#C0C0C0\nOr:#DDBB3A",
+    "color_swatch_config": "Argent:#C0C0C0\nOr:#DDBB3A\nNoir:#000000\nRose:#F4A6C8",
     "show_product_rating": false,
     "show_sold_out_badge": true,
     "show_discount": true,
